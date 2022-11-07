@@ -1,15 +1,15 @@
 {
-    "fe-core": "2.4.5",
+    "fe-core": "1.4.5",
     "ci-log": "2.4.4",
     "trigger-workflow": "2.4.4",
     "trigger-failure": "2.4.4",
     "trigger-success": "2.4.4",
-    "deps-tree": "2.4.5",
-    "gh-app": "2.4.4",
+    "deps-tree": "1.4.5",
+    "gh-app": "1.4.4",
     "gh-create-jwt": "2.4.4",
     "gh-create-app-token": "2.4.4",
     "gh-secret": "2.4.4",
     "pr-comment": "2.4.4",
-    "pnpm-release": "2.4.4",
+    "pnpm-release": "1.4.4",
     "verify-links": "2.4.4"
 }
